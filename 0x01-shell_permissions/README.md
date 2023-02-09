@@ -1,1 +1,1 @@
-gave you rights
+permission to everyone
