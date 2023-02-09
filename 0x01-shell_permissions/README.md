@@ -1,1 +1,1 @@
-i gave you rights
+gave you rights
