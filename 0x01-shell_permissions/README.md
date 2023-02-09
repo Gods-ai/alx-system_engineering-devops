@@ -1,1 +1,1 @@
-given you rights
+equal rights
