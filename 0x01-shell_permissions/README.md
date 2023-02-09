@@ -1,1 +1,1 @@
-equal rights
+james_bond
