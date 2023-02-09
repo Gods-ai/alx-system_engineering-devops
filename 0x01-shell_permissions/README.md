@@ -1,1 +1,1 @@
-i have given you executing rights
+i gave you rights
