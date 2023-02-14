@@ -1,3 +1,2 @@
 #!/bin/bash
-#first echo prints back hello and then the current user
 echo hello $USER
